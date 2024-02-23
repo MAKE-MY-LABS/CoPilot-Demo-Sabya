@@ -1,3 +1,5 @@
+//write a program to search an element in an array using all the searching algorithms
+//Linear Search, Binary Search, Jump Search, Interpolation Search
 import java.util.Scanner;
 
 public class SearchingAlgo {
